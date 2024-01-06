@@ -27,7 +27,7 @@ This Flutter weather app is more than just code—it's a journey into mobile app
 2. Navigate to the project folder:
 
    ```bash
-   cd Weather-app
+   cd Weather-App
    ```
 
 3. Install dependencies:
